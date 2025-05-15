@@ -83,7 +83,7 @@ The proposed Smart Crop Recommendation System (SCRS) overcomes these limitations
 
 - Built using Flask
 - Users input 7 optimized features
-- Returns crop prediction with visual explanation
+- Returns crop prediction
 - Designed for ease-of-use by farmers and agriculture officers
 
 ---
